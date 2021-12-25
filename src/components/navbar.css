@@ -1,0 +1,9 @@
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-image: linear-gradient(to bottom right, rgb(116, 195, 240), rgb(248, 91, 222));
+    width: 100vw;
+    height: 30px;
+    padding: 10px;
+}
